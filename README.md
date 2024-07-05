@@ -5,4 +5,6 @@ A demo video is also attached to see the behavior of the project.
 
 ## Demo Video
 
-![Demo Video](https://github.com/Arka2708/yttsum/raw/main/yttsum.mp4)
+
+https://github.com/Arka2708/yttsum/assets/86280798/1f579d88-6b4a-4431-9ed0-3d03b861a36c
+
