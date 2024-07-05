@@ -7,4 +7,6 @@ A demo video is also attached to see the behavior of the project.
 
 Watch the demo video below:
 
-<iframe width="560" height="315" src="(https://github.com/Arka2708/yttsum/blob/main/yttsum.mp4)" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+## Demo Video
+
+![Demo Video](https://github.com/Arka2708/yttsum/raw/main/yttsum.mp4)
